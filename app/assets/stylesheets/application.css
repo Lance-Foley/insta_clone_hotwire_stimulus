@@ -101,13 +101,13 @@ body {
 }
 
 .post-actions-like {
-    background: url('like.png');
+    background-image: url('like.png');
     background-size: contain;
     display: block;
 }
 
 .post-actions-unlike {
-    background: url('liked.png');
+    background-image: url('liked.png');
     background-size: contain;
     display: block;
 }
